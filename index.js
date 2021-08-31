@@ -13,6 +13,16 @@ const questions = [
       },
       {
         type: 'input',
+      name: 'GitHub',
+      message: 'What is your GitHub user name?'
+      },
+      {
+        type: 'input',
+      name: 'Email',
+      message: 'What is your email?'
+      },
+      {
+        type: 'input',
         name: 'description',
         message: 'Describe your project?',
       },
@@ -31,8 +41,8 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please choose a lincense',
-        choices:['MIT', 'Apache 2.0', 'GPL 3.0', 
-    'Boost Software', 'none']
+        choices:['MIT', 'Apache_2.0', 'GPL_3.0', 
+    'Boost_Software', 'none']
       },
       {
         type: 'input',
