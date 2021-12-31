@@ -40,7 +40,7 @@
 
   ## Questions
 
-  [DamiiB](https://github.com/DamiiB)
+  [Sheluvsdesign](https://github.com/sheluvsdesign)
 
-If you have questions, please contact me at: atiyah@gmail.com
+If you have questions, please contact me at: a@gmail.com
 
